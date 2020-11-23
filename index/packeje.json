@@ -1,0 +1,26 @@
+{
+    " nombre " : " VA " ,
+    " versión " : " 1.0.0 " ,
+    " description " : " Mi primer servidor en Express " ,
+    " main " : " index.js " ,
+    " scripts " : {
+      " dev " : " índice de nodemon " ,
+      " inicio " : " índice de nodo "
+    },
+    " repositorio " : {
+      " tipo " : " git " ,
+      " url " : " https://github.com/Veronica-Arcila/TrabajoCES-1.git "
+    },
+    " autor " : " Veronica Arcila " ,
+    " licencia " : " ISC " ,
+    " errores " : {
+      " url " : "  "
+    },
+    " página de inicio " : "  " ,
+    " dependencias " : {
+      " express " : " ^ 4.17.1 "
+    },
+    " devDependencies " : {
+      " nodemon " : " ^ 2.0.4 "
+    }
+  }
